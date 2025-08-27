@@ -1,0 +1,12 @@
+import { Component } from '@angular/core';
+
+@Component({
+  standalone: true,
+  selector: 'app-small-card',
+  imports: [],
+  templateUrl: './small-card.html',
+  styleUrl: './small-card.css'
+})
+export class SmallCard {
+
+}
